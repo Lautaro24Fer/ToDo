@@ -1,0 +1,9 @@
+button.btnCerrar{
+    background-color: rgb(238, 55, 55);
+    font-weight: bolder;
+    color: var(--color3);
+    border: none;
+    height: 2em;
+    width: 4em;
+    border-radius: 1em;
+}
